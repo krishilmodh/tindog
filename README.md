@@ -1,2 +1,3 @@
 # tindog
-static page from Bootstrap
+static page template made with Bootstrap
+link-https://krishilmodh.github.io/tindog/
